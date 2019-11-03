@@ -1,6 +1,6 @@
 > *There is more treasure in books than in all the pirate’s loot on Treasure Island.* – Walt Disney
 
-My journey to improve myself in Life by reading atleast 3 books per month. The categories I will be reading about will be,
+My journey to become a JEDI(master of Life and Force) by reading atleast 3 books per month. The categories I will be reading about will be,
 
 1) :computer: - Computer Science and Programming (Its my passion and what I do for money),
 2) :mortar_board: - Life and Philosophy (I want to understand the real meaning of life and success),
@@ -11,7 +11,9 @@ My journey to improve myself in Life by reading atleast 3 books per month. The c
 
 I'll also try to make notes and write a breif summary of the books I read so that I can remember and revise them when I need :fire::fire:.
 
-Let the Journey Begin :rocket::sailboat::airplane: .....
+Let the Journey Begin :rocket::sailboat::airplane: ..... 
+
+** MAY THE FORCE BE WITH YOU **
 
 ## November - 2019
 
