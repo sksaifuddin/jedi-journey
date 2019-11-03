@@ -1,3 +1,6 @@
+    ![The Jedi, Skywalker](https://media.giphy.com/media/3owzVYjZSzuFivWpHi/giphy.gif)
+    
+
 > *There is more treasure in books than in all the pirate’s loot on Treasure Island.* – Walt Disney
 
 My journey to become a JEDI(master of Life and Force) by reading atleast 3 books per month. The categories I will be reading about will be,
