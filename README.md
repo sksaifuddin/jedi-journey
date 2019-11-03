@@ -1,2 +1,20 @@
-# self-improve-books
-The series of books to improve my self and become better at Life
+> *There is more treasure in books than in all the pirate’s loot on Treasure Island.* – Walt Disney
+
+My journey to improve myself in Life by reading atleast 3 books per month. The categories I will be reading about will be,
+
+1) :computer: - Computer Science and Programming (Its my passion and what I do for money),
+2) :mortar_board: - Life and Philosophy (I want to understand the real meaning of life and success),
+3) :boy: - Self Help (Help my self in general),
+4) :triangular_ruler: - Math and Physics ( although I love them they still are my weak points),
+5) :moneybag: - Economics and Money (oviously, I want hell lot of money).
+
+
+I'll also try to make notes and write a breif summary of the books I read so that I can remember and revise them when I need :fire::fire:.
+
+Let the Journey Begin :rocket::sailboat::airplane: .....
+
+## November - 2019
+
+- [ ] :computer: - Clean Code by Robert C Martin,
+- [ ] :mortar_board: - Walden by Henry David Thoreau,
+- [ ] :boy: - Algorithms to Live By: The computer Science of Human Decisions(sounds like CS book, but its not)
