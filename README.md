@@ -6,7 +6,7 @@ My journey to become a JEDI(master of Life and Force) by reading atleast 3 books
 2) :mortar_board: - Life and Philosophy (I want to understand the real meaning of life and success),
 3) :boy: - Self Help (Help my self in general),
 4) :triangular_ruler: - Math and Physics ( although I love them they still are my weak points),
-5) :moneybag: - Economics and Money (oviously, I want hell lot of money).
+5) :moneybag: - Economics and Money (obviously, I want hell lot of money).
 
 
 I'll also try to make notes and write a breif summary of the books I read so that I can remember and revise them when I need :fire::fire:.
