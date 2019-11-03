@@ -1,4 +1,4 @@
-    ![The Jedi, Skywalker](https://media.giphy.com/media/3owzVYjZSzuFivWpHi/giphy.gif)
+   ![](https://media.giphy.com/media/3owzVYjZSzuFivWpHi/giphy.gif)
     
 
 > *There is more treasure in books than in all the pirate’s loot on Treasure Island.* – Walt Disney
