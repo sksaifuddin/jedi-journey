@@ -21,5 +21,6 @@ Let the Journey Begin :rocket::sailboat::airplane: .....
 ## November - 2019
 
 - [ ] :computer: - Clean Code by Robert C Martin,
+* https://dev.to/sksaifuddin/what-s-the-score-of-your-functions-1h2k
 - [ ] :mortar_board: - Walden by Henry David Thoreau,
 - [ ] :boy: - Algorithms to Live By: The computer Science of Human Decisions(sounds like CS book, but its not)
