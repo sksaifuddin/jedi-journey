@@ -20,7 +20,7 @@ Let the Journey Begin :rocket::sailboat::airplane: .....
 
 ## November - 2019
 
-- [ ] :computer: - Clean Code by Robert C Martin,
+- [x] :computer: - Clean Code by Robert C Martin,
 - [ ] :mortar_board: - Walden by Henry David Thoreau,
 - [ ] :boy: - Algorithms to Live By: The computer Science of Human Decisions(sounds like CS book, but its not)
 
