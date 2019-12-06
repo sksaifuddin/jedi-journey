@@ -28,3 +28,7 @@ NOTES:
 
 * https://dev.to/sksaifuddin/what-s-the-score-of-your-functions-1h2k
 
+## December - 2019
+
+- [ ] :computer: - Head First Design Patterns: A Brain-Friendly Guide
+- [ ] :boy: - Surely you're Joking Mr Feynman: Adventures of a Curious Character
