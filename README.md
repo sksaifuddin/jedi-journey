@@ -31,4 +31,5 @@ NOTES:
 ## December - 2019
 
 - [ ] :computer: - Head First Design Patterns: A Brain-Friendly Guide
-- [ ] :boy: - Surely you're Joking Mr Feynman: Adventures of a Curious Character
+- [ ] :boy: - Surely you're Joking Mr Feynman: Adventures of a Curious Character - Richard Feynman
+- [ ] :mortar_board: - Brief Answers to Big Questions - Stephen Hawking
