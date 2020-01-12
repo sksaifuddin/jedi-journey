@@ -33,3 +33,8 @@ NOTES:
 - [ ] :computer: - Head First Design Patterns: A Brain-Friendly Guide
 - [ ] :boy: - Surely you're Joking Mr Feynman: Adventures of a Curious Character - Richard Feynman
 - [ ] :mortar_board: - Brief Answers to Big Questions - Stephen Hawking
+
+## January - 2020
+
+- [ ]  :boy: - Atomic Habits - James Clear
+- [ ]  :boy: - Mindset: Changing the way you think to fulfil your potential - Dr Carol S. Dweck
